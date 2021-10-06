@@ -14,7 +14,8 @@ Interested in autonomous system, path planning, robotics, UAV.
 ```
 ---
 ## Education
--   Kyungpook National University(2020~2022), School of Electronic and Electrical Engineering(M.S)
+-   Kyungpook National University(2020~), School of Electronic and Electrical Engineering(M.S)
+    - Expected to Graduate February 2022
 -   Kyungpook National University(2013~2020), School of Electronics Engineering(B.S)
 
 #### 학위기간동안...
@@ -29,9 +30,9 @@ Interested in autonomous system, path planning, robotics, UAV.
 
 ---
 ## Publications
-### Journal Articles
+### Journals
 #### International
-- Seon-il Lee, and Hyeonbeom Lee, "Trajectory Generation of an Aerial Robot Transporting a Bulky Payload in the Cluttered Environments", RAL submit
+- Seon-il Lee, and Hyeonbeom Lee, "Trajectory Generation of an Aerial Robot Transporting a Bulky Payload in the Cluttered Environments", IEEE Robotics and Automation Letters, Under review
 ### Conferences
 #### Domestic
 - 이선일, 김형진, 이현범 "보로노이 다이어그램을 이용한 협동 UAV 경로계획 알고리즘", 한국항공우주학회 2021 춘계학술대회, 2021

@@ -60,14 +60,17 @@ Interested in autonomous system, path planning, robotics, UAV.
 -   ***Introduce :*** Trajectory generation for UAV with a bulky payload, reducing the jerky movement and selecting the appropriate heading-angle.
 -   ***Term :*** 2020.11~2021.08
 -   ***Related technology :*** ros, optimization, SLAM, Voronoi diagram, rate controller, pixhawk, Gazebo, A*, RRT*, FMT*, OMPL.
+
 <!-- -   ***more detatils*** :  [bitbucket.org/Seon-il/ros_path_with_voronoi_circle](https://bitbucket.org/Seon-il/ros_path_with_voronoi_circle) -->
 -   ***Result :*** IEEE Robotics and Automation Letters (RA-L) submit, [video](https://youtu.be/J5v3ZiBAD50)
+- ***Code :*** [bitbucket](https://bitbucket.org/Seon-il/ros_path_with_voronoi_circle)
 ### Maintaining contact force using UAV dynamics against a rigid wall
 - ***Introduce :*** Maintaining contact force using UAV with 1-DoF manipulator against the wall without any force sensor.
 - ***Term :*** 2020.02~2020.10
 - ***Related technology :*** ros, Gazebo, UAV dynamics, motor control, impedance control, torque control, pixhawk
 <!-- -   ***more detatils*** :  [bitbucket.org/Seon-il/contact_force](https://bitbucket.org/Seon-il/contact_force/) -->
 - ***Result :*** ICCAS(2020) published.   [doi: 10.23919/ICCAS50221.2020.9268298](https://ieeexplore.ieee.org/abstract/document/9268298)
+- ***Code :*** [bitbucket](https://bitbucket.org/Seon-il/contact_force)
 
 
 

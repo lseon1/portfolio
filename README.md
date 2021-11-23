@@ -32,12 +32,14 @@ Interested in autonomous system, path planning, robotics, UAV.
 ## Publications
 ### Journals
 #### International
-- Seon-il Lee, and Hyeonbeom Lee, "Trajectory Generation of an Aerial Robot Transporting a Bulky Payload in the Cluttered Environments", IEEE Robotics and Automation Letters, Under review
+- Hyungseok Kim, Hyeongjin Kim, Seon-il Lee and Hyeonbeom Lee, "Autonomous Exploration Strategy for a Mobile Robot with 2d-Map Segmentation and Object Detection in the Cluttered Environment", IEEE Robotics and Automation Letters, Under revision
 ### Conferences
 #### Domestic
 - 이선일, 김형진, 이현범 "보로노이 다이어그램을 이용한 협동 UAV 경로계획 알고리즘", 한국항공우주학회 2021 춘계학술대회, 2021
 #### International
 - Seon-il Lee, Hyungseok Kim, Uikyum Kim, Hyeonbeom Lee, "Concave Wall Surface Tracking for Aerial Manipulator Using Contact Force Estimation Algorithm", 20th International Conference on Control, Automation and Systems, Busan, Korea (Oct.2020)
+
+- Seon-il Lee, and Hyeonbeom Lee, "Trajectory Generation of an Aerial Robot Transporting a Bulky Payload in the Cluttered Environments", IEEE International Conference on Robotics and Automation(ICRA), Under review, 2022
 
 ---
 
@@ -62,7 +64,7 @@ Interested in autonomous system, path planning, robotics, UAV.
 -   ***Related technology :*** ros, optimization, SLAM, Voronoi diagram, rate controller, pixhawk, Gazebo, A*, RRT*, FMT*, OMPL.
 
 <!-- -   ***more detatils*** :  [bitbucket.org/Seon-il/ros_path_with_voronoi_circle](https://bitbucket.org/Seon-il/ros_path_with_voronoi_circle) -->
--   ***Result :*** IEEE Robotics and Automation Letters (RA-L) submit, [video](https://youtu.be/J5v3ZiBAD50)
+-   ***Result :*** IIEEE International Conference on Robotics and Automation(ICRA), Under review, [video](https://youtu.be/J5v3ZiBAD50)
 - ***Code :*** [bitbucket](https://bitbucket.org/Seon-il/ros_path_with_voronoi_circle)
 ### Maintaining contact force using UAV dynamics against a rigid wall
 - ***Introduce :*** Maintaining contact force using UAV with 1-DoF manipulator against the wall without any force sensor.
